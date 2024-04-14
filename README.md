@@ -1,6 +1,8 @@
+![alt text](/assets/images/logo.png)
+
 # CASS CAPTURE MANAGEMENT SYSTEM (OFFLINE MODULE)
 
-![alt text](image.png)
+![alt text](/assets/images/coat-of-arms.jpg)
 
 # USER OPERATIONAL MANUAL
 
