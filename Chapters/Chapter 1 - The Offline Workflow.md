@@ -1,4 +1,4 @@
-# Chapter 1 - The Offline workflow
+# Chapter 1 - The Offline WORKFLOW
 
 ## 1. CASS Capture Management System login.
 
@@ -61,7 +61,7 @@ The application allows the user to upload CASS directly from a system connected 
 
 Preparing the system for capturing the CASS scores for subsequent years is done by promoting existing candidates from one CASS year to the other. The system allows the school to specify which candidates are eligible for promotion and generation of entries for subsequent CASS years by selecting the candidates. Candidates are only promoted provided that their CASS are completed for all their registered subjects for the current year.
 
-## 9. Report generation and printing
+## 9. Report Generation and Printing
 
 ![](/assets/images/c01/c1.9.1.png)
 
