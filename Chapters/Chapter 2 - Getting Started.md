@@ -4,7 +4,7 @@ The installation Pen Drive (USB) or CD includes the following:
 1. An installation program for the Offline CASS. The installer includes uninstallation support.
 2. The User Manual in Adobe PDF format.
 3. Adobe Acrobat Reader 2015.
-4. Installation files for DotNET framework 4.0 
+4. Installation files for DotNET Framework 4.0 
 5. Installation files for the SQL Server Express 2008
 6. Installation files for the Crystal Reports Runtime Ver. 13_0_20
 
@@ -12,7 +12,7 @@ The installation Pen Drive (USB) or CD includes the following:
 The following configuration is based on environments used during development. As such, they should be treated as mere recommendations as opposed to instructions. Where a specific brand of software is recommended, the recommendation should not be assumed to be the assumption of any liability, by the author that may arise from the use of the software.
 
 The following is the recommended system configuration
-1. A Personal Computer running Microsoft Windows 8 or higher, with 2GB RAM and 40GB HDD.
+1. A Personal Computer running Microsoft Windows 8 or higher, with 2GB RAM and 500GB HDD.
 2. A printer capable of printing onto A4 paper.
 3. Pen Drive (USB) or CDROM Drive to facilitate installations.
 4. A reliable internet connection to download the software from WAEC website (https://waecinternational.org/cass/downloads).
@@ -20,15 +20,15 @@ The following is the recommended system configuration
 In the following section, it is assumed that your CD-ROM or Pen Drive (USB) is on drive D. If this is not the case, then substitute your Pen Drive (USB) or CD-ROM drive letter in the appropriate places.
 
 ## 3. Installing the Pre-requisites
-1. Close ALL any applications that you may be running on your PC
-2.	Insert the Pen Drive into the USB port or CD into your CD-ROM drive
+1. Close ALL applications that you may be running on your PC
+2. Insert the Pen Drive into the USB port or CD into your CD-ROM drive
 3. Copy the folder D:\Prerequisites to your hard disk.
 ![](/assets/images/c02/c2.1.png)
 
-## 4. Installing Dot Net framework 4.0
-> Note that for the application and other prerequisite applications to work, we must first install Dot Net framework 4.0 or higher. The procedure of installing is as follows:
+## 4. Installing Microsoft Dot Net Framework 4.0
+> Note that for the application and other prerequisite applications to work, we must first install Dot Net Framework 4.0 or higher. The procedure of installing is as follows:
 
-1. Double click the DotNetFX… folder and double click on the application the file in the folder
+1. Double click the DotNetFX… folder and double click on the application file in the folder
 ![](/assets/images/c02/c2.2.png)
 
 2. Follow the on-screen instruction while the application installs
@@ -60,16 +60,16 @@ In the following section, it is assumed that your CD-ROM or Pen Drive (USB) is o
 5. Check the ‘I accept the license terms’ box, and then click the Next button to continue the installation.
 ![](/assets/images/c02/c2.11.png)
  
-6. Note, the installation of Now you start the SQL Server 2014 2008 started install. Click the Install button to continue. This’ll take a few minutes then you’re prompted to continue.
+6. Note, the installation will start to install the SQL Server 2008. Click the Install button to continue. This’ll take a few minutes then you’re prompted to continue.
 ![](/assets/images/c02/c2.12.png)
 
-7. You should get all check marks but if your firewall ports are closed then below, is what you’ll get as output. Click the Next button to continue.
+7. You should get all check marks, but if your firewall ports are closed then below is what you’ll get as output. Click the Next button to continue.
 ![](/assets/images/c02/c2.13.jpg)
 
 8. The Features selection dialog is important. Click the Select All button if you wish to install all features or you may customize your installation by selecting features that you wish to install from the boxes as shown below. Click the Next button to continue.
 ![](/assets/images/c02/c2.14.png)
 
-9.  Now you Accept the installation of ‘SQLExpress’ as the named instance by clicking the Next button.  
+9. Accept the installation of ‘SQLExpress’ as the named instance by clicking the Next button.  
 ![](/assets/images/c02/c2.15.png)
 
 10. Accept the 1,446 MB space requirement by clicking the Next button.
