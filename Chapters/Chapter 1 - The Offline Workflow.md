@@ -1,4 +1,4 @@
-# Chapter 1 - The Offline workflow
+# Chapter 1 - The Offline WORKFLOW
 
 ## 1. CASS Capture Management System login.
 
