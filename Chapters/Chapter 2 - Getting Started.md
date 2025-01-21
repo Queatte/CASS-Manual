@@ -12,7 +12,7 @@ The installation Pen Drive (USB) or CD includes the following:
 The following configuration is based on environments used during development. As such, they should be treated as mere recommendations as opposed to instructions. Where a specific brand of software is recommended, the recommendation should not be assumed to be the assumption of any liability, by the author that may arise from the use of the software.
 
 The following is the recommended system configuration
-1. A Personal Computer running Microsoft Windows 8 or higher, with 2GB RAM and 40GB HDD.
+1. A Personal Computer running Microsoft Windows 8 or higher, with 2GB RAM and 250GB HDD.
 2. A printer capable of printing onto A4 paper.
 3. Pen Drive (USB) or CDROM Drive to facilitate installations.
 4. A reliable internet connection to download the software from WAEC website (https://waecinternational.org/cass/downloads).
@@ -20,18 +20,18 @@ The following is the recommended system configuration
 In the following section, it is assumed that your CD-ROM or Pen Drive (USB) is on drive D. If this is not the case, then substitute your Pen Drive (USB) or CD-ROM drive letter in the appropriate places.
 
 ## 3. Installing the Pre-requisites
-1. Close ALL any applications that you may be running on your PC
-2.	Insert the Pen Drive into the USB port or CD into your CD-ROM drive
+1. Close ALL applications that you may be running on your PC.
+2. Insert the Pen Drive into the USB port or CD into your CD-ROM drive
 3. Copy the folder D:\Prerequisites to your hard disk.
 ![](/assets/images/c02/c2.1.png)
 
 ## 4. Installing Dot Net framework 4.0
 > Note that for the application and other prerequisite applications to work, we must first install Dot Net framework 4.0 or higher. The procedure of installing is as follows:
 
-1. Double click the DotNetFX… folder and double click on the application the file in the folder
+1. Double click the DotNetFX… folder and double click on the application  file in the folder
 ![](/assets/images/c02/c2.2.png)
 
-2. Follow the on-screen instruction while the application installs
+2. Follow the on-screen instructions while the application installs
 ![](/assets/images/c02/c2.3.png)
 
 3. When the installation is completed, click the Exit button
@@ -41,7 +41,7 @@ In the following section, it is assumed that your CD-ROM or Pen Drive (USB) is o
 1. After launching the program, you may get the following dialog depending on your User Access Control settings. Click the Run button to continue.
 ![](/assets/images/c02/c2.5.png)
 
-2. The next screen requests you accept the license agreement. Please make sure you do that, or you could run into trouble later on if you violate the EULA. Click the Accept button to continue.
+2. The next screen will request you to accept the license agreement. Please make sure you do that, or you could run into trouble later on if you violate the End User License Agreement (EULA). Click the Accept button to continue.
 ![](/assets/images/c02/c2.6.png)
 
 3. To proceed with the setup, please click the tab labelled 'Installation'. Then Click 'New SQL Server stand-alone installation or add features to an existing installation.
@@ -60,7 +60,7 @@ In the following section, it is assumed that your CD-ROM or Pen Drive (USB) is o
 5. Check the ‘I accept the license terms’ box, and then click the Next button to continue the installation.
 ![](/assets/images/c02/c2.11.png)
  
-6. Note, the installation of Now you start the SQL Server 2014 2008 started install. Click the Install button to continue. This’ll take a few minutes then you’re prompted to continue.
+6. Note, the installation of the SQL Server 2014 will start to install. Click the Install button to continue. This’ll take few minutes then you’re prompted to continue.
 ![](/assets/images/c02/c2.12.png)
 
 7. You should get all check marks but if your firewall ports are closed then below, is what you’ll get as output. Click the Next button to continue.
@@ -69,7 +69,7 @@ In the following section, it is assumed that your CD-ROM or Pen Drive (USB) is o
 8. The Features selection dialog is important. Click the Select All button if you wish to install all features or you may customize your installation by selecting features that you wish to install from the boxes as shown below. Click the Next button to continue.
 ![](/assets/images/c02/c2.14.png)
 
-9.  Now you Accept the installation of ‘SQLExpress’ as the named instance by clicking the Next button.  
+9.  Accept the installation of ‘SQLExpress’ as the named instance by clicking the Next button.  
 ![](/assets/images/c02/c2.15.png)
 
 10. Accept the 1,446 MB space requirement by clicking the Next button.
@@ -90,11 +90,11 @@ In the following section, it is assumed that your CD-ROM or Pen Drive (USB) is o
 15. After verifying the installation, is possible, you’ll see what you’re installing before you click the third Install button to continue.
 ![](/assets/images/c02/c2.21.png)
  
-16. It is now time to wait while SQL Server 2014 Express edition installs    
-17. When all features are marked success, If you arrive at the next screen, SQL Server 2014 Express has successfully been is installed. Click Next to continue.
+16. It is now time to wait while SQL Server 2014 Express edition installs.    
+17. When all features are marked success, the system will indicate that SQL Server 2014 Express has successfully been is installed, click Next to continue.
 ![](/assets/images/c02/c2.22.jpg)
 
-18. When the installation is completed, Now you’ll see the final installation dialog and the link to the installation log file. Click on close or finish.
+18. When the installation is completed, Now you’ll see the final installation dialog and the link to the installation log file. Click close or finish.
 
 ## 6. Installing the Crystal Reports Runtime: 
 
@@ -117,12 +117,12 @@ The procedure required to install the application is as follows:
 ![](/assets/images/c02/c2.29.jpg)
 
 ## 7. Installing the CASS Offline Application
-Now that the prerequisite s applications have been successfully installed, you are now ready to install the CASS Offline Application proper. The procedure is 	similar to the steps above.
-1. Close ALL any applications that you may be running.
+Now that the prerequisites applications have been successfully installed, you are now ready to install the CASS Offline Application proper. The procedure is similar to the steps above.
+1. Close ALL applications that you may be running.
 2. Insert the Pen Drive (USB) into the USB port or the CD into your CD-ROM drive on your computer.
 3. You may copy the folder D:\WAECCASSSetup to your hard disk or directly install the application from the USB or CD.
 4. Navigate to the folder WAECCASSSetup on the CD or Pen Drive (USB). Open the folder you will have copied the files to and run double click on Setup.exe to start the installation of the CASS Offline application on your computer.
-5. Follow the onscreen instructions. Please note, again that the precaution to install the program after copying from the read-only media, ensure that the is assure Pen Drive or the CD is not corrupt. If they are corrupted, installation of the application will not be possible. thus affecting the integrity of your setup.
+5. Follow the onscreen instructions. Please note, again the precaution to install the program after copying from the read-only media. Ensure that the Pen Drive or the CD is not corrupt. If they are corrupted, installation of the application will not be possible. thus affecting the integrity of your setup.
 
     1. Once the setup wizard launches, you are shown the ‘welcome’ screen
 ![](/assets/images/c02/c2.30.png)
